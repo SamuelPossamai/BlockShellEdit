@@ -1,0 +1,6 @@
+[submodule "ShellBlocksTranspiler"]
+	path = ShellBlocksTranspiler
+	url = https://github.com/SamuelPossamai/ShellBlocksTranspiler.git
+[submodule "BlockConnectorServer"]
+	path = BlockConnectorServer
+	url = https://github.com/SamuelPossamai/BlockConnectorServer.git
